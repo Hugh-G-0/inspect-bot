@@ -1,0 +1,13 @@
+[Unit]
+Description=Activate inspect bot scripts, etc.
+After=network.target
+
+[Service]
+Type=idle
+ExecStart=/bin/bash /home/hughg/Documents/startup.sh
+User=hughg
+WorkingDirectory=/home/hughg/Documents/inspect-bot-python
+Restart=no
+
+[Install]
+WantedBy=multi-user.target
