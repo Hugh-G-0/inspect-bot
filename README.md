@@ -1,6 +1,6 @@
 # Inspection Robot
 This is the source code for my inspection robot.
-It is dive into three parts:
+It is divided into three parts:
 
 [/app/src/main/java/inspectbot](): controller code
 
