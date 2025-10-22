@@ -2,11 +2,11 @@
 This is the source code for my inspection robot.
 It is divided into three parts:
 
-[/app/src/main/java/inspectbot](github.com/Hugh-G-0/inspect-bot/blob/main/app/src/main/java/inspectbot): controller code
+[/app/src/main/java/inspectbot](github.com/Hugh-G-0/inspect-bot/tree/main/app/src/main/java/inspectbot): controller code
 
-[/app/src/main/python/inspectbot](github.com/Hugh-G-0/inspect-bot/blob/main/app/src/main/python/inspectbot): onborad python code
+[/app/src/main/python/inspectbot](github.com/Hugh-G-0/inspect-bot/tree/main/app/src/main/python/inspectbot): onborad python code
 
-[/app/src/main/python/startup](github.com/Hugh-G-0/inspect-bot/blob/main/app/src/main/python/startup): onboard startup scripts
+[/app/src/main/python/startup](github.com/Hugh-G-0/inspect-bot/tree/main/app/src/main/python/startup): onboard startup scripts
 
 # Referenced Libraries
 
