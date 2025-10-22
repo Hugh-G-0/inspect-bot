@@ -2,11 +2,11 @@
 This is the source code for my inspection robot.
 It is dive into three parts:
 
-[/src/main/java/inspectbot](): controller code
+[/app/src/main/java/inspectbot](): controller code
 
-[/src/main/python/inspectbot](): onborad python code
+[/app/src/main/python/inspectbot](): onborad python code
 
-[/src/main/python/startup](): onboard startup scripts
+[/app/src/main/python/startup](): onboard startup scripts
 
 # Referenced Libraries
 
