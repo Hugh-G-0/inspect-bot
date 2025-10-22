@@ -6,7 +6,7 @@ It is divided into three parts:
 
 [/app/src/main/python/inspectbot](https://github.com/Hugh-G-0/inspect-bot/tree/main/app/src/main/python/inspectbot): onborad python code
 
-[/app/src/main/python/startup](https://github.com/Hugh-G-0/inspect-bot/tree/main/app/src/main/python/startup): onboard startup scripts
+[/app/src/main/python/startup](https://github.com/Hugh-G-0/inspect-bot/tree/main/app/src/main/startup): onboard startup scripts
 
 # Referenced Libraries
 
